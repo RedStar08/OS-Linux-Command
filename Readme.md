@@ -5,7 +5,7 @@
 
 #### 目录结构说明：
 
-![image-20200829155501780](E:\GitHub\OS-Linux-Command\file-tree.png)
+![image-20200829155501780](./file-tree.png)
 
 - sourceCode 中是源码
 - src 中是静态库和演示程序的项目(CodeBlocks项目)
